@@ -1,0 +1,60 @@
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\bin\Debug\net8.0\appsettings.json
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\bin\Debug\net8.0\LHPet.staticwebassets.runtime.json
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\bin\Debug\net8.0\LHPet.exe
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\bin\Debug\net8.0\LHPet.deps.json
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\bin\Debug\net8.0\LHPet.runtimeconfig.json
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\bin\Debug\net8.0\LHPet.dll
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\bin\Debug\net8.0\LHPet.pdb
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\LHPet.AssemblyInfoInputs.cache
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\LHPet.AssemblyInfo.cs
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\LHPet.csproj.CoreCompileInputs.cache
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\LHPet.RazorAssemblyInfo.cache
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\LHPet.RazorAssemblyInfo.cs
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.LHPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.build.LHPet.props
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LHPet.props
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LHPet.props
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\scopedcss\bundle\LHPet.styles.css
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\scopedcss\projectbundle\LHPet.bundle.scp.css
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\LHPet.dll
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\refint\LHPet.dll
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\LHPet.pdb
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\LHPet.genruntimeconfig.cache
+C:\Users\Senaisp\Desktop\MVC - LHPet\LHPet\obj\Debug\net8.0\ref\LHPet.dll
+C:\Users\Senaisp\Desktop\LHPet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Senaisp\Desktop\LHPet\bin\Debug\net8.0\appsettings.json
+C:\Users\Senaisp\Desktop\LHPet\bin\Debug\net8.0\LHPet.staticwebassets.runtime.json
+C:\Users\Senaisp\Desktop\LHPet\bin\Debug\net8.0\LHPet.exe
+C:\Users\Senaisp\Desktop\LHPet\bin\Debug\net8.0\LHPet.deps.json
+C:\Users\Senaisp\Desktop\LHPet\bin\Debug\net8.0\LHPet.runtimeconfig.json
+C:\Users\Senaisp\Desktop\LHPet\bin\Debug\net8.0\LHPet.dll
+C:\Users\Senaisp\Desktop\LHPet\bin\Debug\net8.0\LHPet.pdb
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\LHPet.AssemblyInfoInputs.cache
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\LHPet.AssemblyInfo.cs
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\LHPet.csproj.CoreCompileInputs.cache
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\LHPet.RazorAssemblyInfo.cache
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\LHPet.RazorAssemblyInfo.cs
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.LHPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.build.LHPet.props
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LHPet.props
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LHPet.props
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\scopedcss\bundle\LHPet.styles.css
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\scopedcss\projectbundle\LHPet.bundle.scp.css
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\LHPet.dll
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\refint\LHPet.dll
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\LHPet.pdb
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\LHPet.genruntimeconfig.cache
+C:\Users\Senaisp\Desktop\LHPet\obj\Debug\net8.0\ref\LHPet.dll
